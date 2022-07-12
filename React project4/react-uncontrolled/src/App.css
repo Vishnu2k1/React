@@ -1,0 +1,19 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  max-width: 768px;
+  margin: 0 auto;
+}
+.App form {
+  display: flex;
+  flex-direction: column;   
+}
+input{
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  cursor: pointer;
+  padding: 20px;
+}
