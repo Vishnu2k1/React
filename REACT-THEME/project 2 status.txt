@@ -1,0 +1,10 @@
+						PROJECT-2 
+					Day1(26-06-2022)21:25
+project starts
+1.useContext hook
+It is use to create parent with child. Mostly used to creat a theme page website.
+ 
+2. project 2.
+day end project completed (27-06-2022)00:08
+
+learn to change dark to light and light to dark using useContext.
